@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    easy-gtalk-bot (1.0.2)
+      xmpp4r (>= 0.5)
+    mini_portile (0.5.1)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    xmpp4r (0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  easy-gtalk-bot
+  nokogiri
